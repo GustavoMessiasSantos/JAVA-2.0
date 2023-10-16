@@ -8,10 +8,10 @@ public class Media {
         double somaDasMedias = mediaAritmetica1 + mediaAritmetica2;
         double mediaDasMedias = somaDasMedias / 2.0;
 
-        System.out.println("Média dos números 8, 9 e 7: " + mediaAritmetica1);
-        System.out.println("Média dos números 4, 5 e 6: " + mediaAritmetica2);
-        System.out.println("Soma das duas médias: " + somaDasMedias);
-        System.out.println("Média das médias: " + mediaDasMedias);
+        System.out.println("Media dos numeros 8, 9 e 7: " + mediaAritmetica1);
+        System.out.println("Media dos numeros 4, 5 e 6: " + mediaAritmetica2);
+        System.out.println("Soma das duas medias: " + somaDasMedias);
+        System.out.println("Media das medias: " + mediaDasMedias);
 
 	}
 
